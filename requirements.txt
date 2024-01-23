@@ -1,0 +1,7 @@
+autopep8
+ffmpeg-python
+ipykernel
+pytube @ git+https://github.com/mrbitsdcf/pytube@15.0.1
+requests
+python-slugify
+google-api-python-client
