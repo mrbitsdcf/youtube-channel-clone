@@ -29,10 +29,11 @@ git clone URL
 cd youtube-channel-clone
 ```
 
-2. Create a Python virtualenv
+2. Create a Python virtualenv and upgrade pip
 
 ```
 python -m venv venv
+pip install -U pip
 ```
 
 3. Install libraries

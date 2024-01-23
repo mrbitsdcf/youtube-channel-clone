@@ -5,3 +5,5 @@ pytube @ git+https://github.com/mrbitsdcf/pytube@15.0.1
 requests
 python-slugify
 google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2

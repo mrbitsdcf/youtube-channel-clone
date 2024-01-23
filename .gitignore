@@ -252,3 +252,7 @@ pyrightconfig.json
 # 3D Images
 *.3dm
 *.max
+
+
+# Google Credential File
+google_credentials.json
