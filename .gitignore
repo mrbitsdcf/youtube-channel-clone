@@ -257,3 +257,4 @@ pyrightconfig.json
 # Google Credential File
 google_credentials.json
 client_secrets.json
+request.token
