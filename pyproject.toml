@@ -4,3 +4,20 @@ ignore = ["E501", "W6", "C0116", "W1514"]
 in-place = true
 recursive = true
 aggressive = 3
+
+[tool.poetry]
+name = "youtube-channel-clone"
+version = "0.1.0"
+description = ""
+authors = ["MrBiTs <mrbits@mrbits.com.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytube = {git = "https://github.com/mrbitsdcf/pytube", rev = "15.0.1"}
+autopep8 = "^2.0.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
